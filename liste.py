@@ -27,6 +27,5 @@ transaction_list
 copie_trans = transaction_list.copy()
 print("9) la copie des transaction est :",copie_trans)
 #10: Ecris un programme qui fait la moyens des transactions
-
 result = mean(transaction_list)
 print("10) La moyenne des transactions est :{}".format(result))
